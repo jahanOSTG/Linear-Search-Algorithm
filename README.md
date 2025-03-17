@@ -26,5 +26,8 @@ Average Case:
 (
 𝑛
 ).
+---
+## Output: Linear Search
+![output](output.png)
 
 
